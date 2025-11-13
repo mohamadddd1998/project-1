@@ -1,4 +1,4 @@
 const Button=()=>{
-  return <>tButton</>
+  return <>Button</>
 }
 export default Button
